@@ -6,7 +6,7 @@ body {
 
     /* Ảnh nền của trang thứ 2 nếu bạn muốn thay đổi thì nó tại đây */
 
-    background-image: url("./img/nen4.jpeg");
+    background-image: url("../img/nen4.jpeg");
 
     background-size: cover;
 
